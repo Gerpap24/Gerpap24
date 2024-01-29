@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gerpap24
+- 👋 Hi, I’m Gerardo Acaba.
 - 👀 I’m interested in Business Analysis and its impact on Business and Community Development.
 - 🌱 I’m currently learning how to build my portfolio.
 - 💞️ I’m looking to collaborate on introducing AI impact on governance and also help local leader appriciate the need for a data-driven decision-making.
