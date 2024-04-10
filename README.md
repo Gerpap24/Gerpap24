@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerardo Acaba.
 - 👀 I’m interested in Business Analysis and its impact on Business and Community Development.
-- 🌱 I’m currently learning how to build my portfolio.
-- 💞️ I’m looking to collaborate on introducing AI impact on governance and also help local leader appriciate the need for a data-driven decision-making.
+- 🌱 I’m currently building my portfolio.
+- 💞️ Introducing AI impact on governance. Helping local leaders appriciate the need for a data-driven decision-making.
 - 📫 How to reach me: https://www.linkedin.com/in/gerardo-acaba-aaa449141/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
